@@ -1,0 +1,9 @@
+.floydexpt
+.floydignore
+fashion-mnist_test.csv
+*.pyc
+output/
+logs/
+__pycache__/
+__pycache__/dataset.cpython-36.pyc
+__pycache__/network_builder.cpython-36.pyc
